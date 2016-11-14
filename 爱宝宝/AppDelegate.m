@@ -27,7 +27,7 @@
     //创建窗口
     self.window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
     //初始化控制器
-
+    NSLog(@"test");
     //navigation 导航控制器
     XFlabChoseVC *XFlabVC = [[XFlabChoseVC alloc]init];
     UINavigationController *rotVC = [[UINavigationController alloc]initWithRootViewController:XFlabVC];

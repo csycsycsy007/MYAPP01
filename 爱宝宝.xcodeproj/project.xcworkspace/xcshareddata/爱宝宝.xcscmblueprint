@@ -1,40 +1,59 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6db78013-7f2d-49d1-ac41-8f5928eece34++6915",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BC825A5DB6177C7AF4FBA9460D5D6FD3135B0228+++B7B6711",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "4182765C525509B305166AB949D5935FD5C85212" : {
+    "4182765C525509B305166AB949D5935FD5C85212+++5518BF8" : {
 
     },
-    "6db78013-7f2d-49d1-ac41-8f5928eece34++6915" : {
+    "6db78013-7f2d-49d1-ac41-8f5928eece34++6915+++7012392" : {
       "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    },
+    "4182765C525509B305166AB949D5935FD5C85212+++1CF0712" : {
+
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "4182765C525509B305166AB949D5935FD5C85212" : 9223372036854775807,
-    "6db78013-7f2d-49d1-ac41-8f5928eece34++6915" : 9223372036854775807
+    "BC825A5DB6177C7AF4FBA9460D5D6FD3135B0228+++B7B6711" : 9223372036854775807,
+    "4182765C525509B305166AB949D5935FD5C85212+++5518BF8" : 9223372036854775807,
+    "4182765C525509B305166AB949D5935FD5C85212+++1CF0712" : 9223372036854775807,
+    "4182765C525509B305166AB949D5935FD5C85212+++7C749B9" : 9223372036854775807,
+    "6db78013-7f2d-49d1-ac41-8f5928eece34++6915+++7012392" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F30322A1-C2BD-4DDB-A572-9174F2E89C57",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "4182765C525509B305166AB949D5935FD5C85212" : "%E9%A1%B9%E7%9B%AE\/%E7%88%B1%E5%AE%9D%E5%AE%9D\/MBProgressHUD\/",
-    "6db78013-7f2d-49d1-ac41-8f5928eece34++6915" : "%E9%A1%B9%E7%9B%AE\/"
+    "BC825A5DB6177C7AF4FBA9460D5D6FD3135B0228+++B7B6711" : "MYAPP01\/",
+    "4182765C525509B305166AB949D5935FD5C85212+++5518BF8" : "%E9%A1%B9%E7%9B%AE\/%E7%88%B1%E5%AE%9D%E5%AE%9D\/MBProgressHUD\/",
+    "4182765C525509B305166AB949D5935FD5C85212+++1CF0712" : "%E9%A1%B9%E7%9B%AE\/%E7%88%B1%E5%AE%9D%E5%AE%9D\/MBProgressHUD\/",
+    "4182765C525509B305166AB949D5935FD5C85212+++7C749B9" : "MYAPP01\/%E7%88%B1%E5%AE%9D%E5%AE%9D\/MBProgressHUD\/",
+    "6db78013-7f2d-49d1-ac41-8f5928eece34++6915+++7012392" : "%E9%A1%B9%E7%9B%AE\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "爱宝宝",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "爱宝宝.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdg\/MBProgressHUD.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212+++1CF0712"
+    },
+    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/BabyCare2",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212+++5518BF8"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdg\/MBProgressHUD.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212+++7C749B9"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/BabyCare2",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6db78013-7f2d-49d1-ac41-8f5928eece34++6915"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6db78013-7f2d-49d1-ac41-8f5928eece34++6915+++7012392"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/csycsycsy007\/MYAPP01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC825A5DB6177C7AF4FBA9460D5D6FD3135B0228+++B7B6711"
     }
   ]
 }
